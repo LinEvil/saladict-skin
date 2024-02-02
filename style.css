@@ -9,6 +9,11 @@
 	fill: #222;
 }
 
+.menuBar-SearchBox /* 悬浮窗口搜索框 */
+{
+	color: #434343;
+}
+
 .mtaBox-TextArea-Wrap,
 .mtaBox-DrawerBtn,
 .waveformBox.saladict-external,
